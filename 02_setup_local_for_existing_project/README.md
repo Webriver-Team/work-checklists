@@ -2,7 +2,7 @@
 
 ## First step - Making a Local site
 
-Firstly you will need a Local site onto which you will replicate the live site by placing files and things of live site.[ Click here for that checklist](../01_setting_up_local_host\README.md)
+Firstly you will need a Local site onto which you will replicate the live site by placing files and things of live site.[ Click here for that checklist](../01_setting_up_local_host/README.md)
 
 ## Second Step - Replicating live site to Local
 
