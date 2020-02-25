@@ -3,7 +3,7 @@
 
 
 * [ ] Setting up local host
-  * [ ] [Setup localhost for new project](01_setting_up_local_host\README.md)
+  * [ ] [Setup localhost for new project](01_setting_up_local_host/README.md)
   * [ ] setup local for existing project
 * [ ] Setting up vs code
 * [ ] Setting up git repo for internal dev (webriver's repo)
