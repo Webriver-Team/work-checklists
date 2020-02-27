@@ -4,7 +4,7 @@
   - [Setup localhost for new project](01_setting_up_local_host/README.md)
   - [Setup local for existing project](02_setup_local_for_existing_project/README.md)
 - [Setting up vs code](03_settingup_vscode/README.md)
-- Setting up git repo for internal dev (webriver's repo)
+- [Setting up Git repo for internal dev (Webriver's repo)](04_settingup_webriver_git_repo/README.md)
 - Setting up git repo for post launch (glide's repo)
 - Setting up project from blank theme (front end)
 - Setting up project from blank theme (back end)

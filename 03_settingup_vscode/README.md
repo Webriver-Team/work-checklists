@@ -45,4 +45,5 @@
 - You may also need to setup some extensions as they get installed like `Project manager` in the above picture
 - After the setup is completed you will get a success message like this. ![](2020-02-26-23-19-09.png)
 - Now press `CTRL+Shift+P` and type `reload` and select _reload window_
+- You many need to install somethings by yourself to complete the setup. As like in this case you need to install a Font named `Fira Code`. That can be found on this url. https://github.com/tonsky/FiraCode ![](2020-02-27-10-59-10.png)
 - All of your extensions, keybindings, snippets and settings has been restored. Enjoy using them.
