@@ -54,7 +54,7 @@
 
 ### c. Adding Composer Packages Globally
 
-> Composer is a framework. To get work out of it you need to install that specific packages according to your needs. Here are some packages that you need to install for the current process.
+> ***Note*** Composer is a framework. To get work out of it you need to install that specific packages according to your needs. Here are some packages that you need to install for the current process.
 
 * Press `Win+R` to open *Run* window.
 * Type `cmd` to open the *Command line*.
@@ -81,7 +81,6 @@
 * To confirm the paths are right, just copy the path and paste into new tab of *Chrome* and press enter.
 * You should see some output like this *(instead of 404 Not Found Error)* confirming you have right path to that file.![](2020-03-02-18-48-42.png)
 * Do this for both `.bat` files path.
-*
 
 ## 3. NodeJS
 
@@ -99,7 +98,7 @@
 
 ### c. Installing Modules of NodeJS
 
-> NodeJS is a framework. To get work out of it you need to install that specific modules according to your needs. Here are some modules that you need to install for the current process.
+> ***Note*** NodeJS is a framework. To get work out of it you need to install that specific modules according to your needs. Here are some modules that you need to install for the current process.
 
 * Press `Win+R` to open *Run* window.
 * Type `cmd` to open the *Command line*.
@@ -141,7 +140,7 @@
 
 ### c. Placing Beautification Files in Project
 
-> ***Note*** For the beautifications processes to run, you need several files that contain some coding rules, that will be applied to your files according to file type. This process tell you how to add those files in your project so that you will not get such VSCode erros.
+> ***Note*** For the beautifications processes to run, you need several files that contain some coding rules, that will be applied to your files according to file type. This process tell you how to add those files in your project so that you will not get such VSCode erros.<br/>
 ![](2020-03-02-20-23-47.png)
 
 * Go to this repo Must [Have Project Files](https://github.com/webriverteam/Must-Have-Project-Files) and download this repo in `Zip` form. ![](2020-03-02-20-25-57.png)
@@ -154,6 +153,8 @@
 
 > ***Note*** To check the beautification process you need to open up each type of supported files and try to save them. The commands will run on save and will beautify the code.
 
+> The commands will run silently. But if you want to confirm that a command ran on this file. Simply goto `Terminal` and find for `powershell` in dropdown list. You will be able to find somethings like this, check for the last command that ran it should be on your opened file. ![](2020-03-02-21-13-36.png)
+
 ### a. Supported File Types
 
 * HTML Files
@@ -163,6 +164,6 @@
 
 ### b. Some Pointers
 
-* You may get some notification like this depending on file size. If file size is smaller the notification may be not visible or visible for many less amount of time. ![](2020-03-02-20-40-58.png)
+* You may get some notification like this depending on file size. If file size is smaller the notification may be not visible or visible for many less amount of time.<br/> ![](2020-03-02-20-40-58.png)
 * You can check the `Problems` panel to see the possible errors before and efter the `linting` or `beautification` process. ![](vscode-problems-panel.gif)
 * There are some errors that required human interaction, so those might be solved by the process.![](2020-03-02-20-52-52.png)
