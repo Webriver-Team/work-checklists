@@ -2,7 +2,7 @@
 
 ## First step - Making a Local site
 
-Firstly you will need a Local site onto which you will replicate the live site by placing files and things of live site.[ Click here for that checklist](../01_setting_up_local_host/README.md)
+Firstly you will need a Local site onto which you will replicate the live site by placing files and things of live site.[ Click here for that checklist](../01_a_setting_up_local_host_new_project/README.md)
 
 ## Second Step - Replicating live site to Local
 
@@ -34,7 +34,7 @@ Firstly you will need a Local site onto which you will replicate the live site b
   - File Path => File Path
 - Now uncheck these two checkboxes. ![](2020-02-25-18-55-35.png)
   - Export File -> Compress file with gzip
-  - Advanced Options ->  Replace GUIDs 
+  - Advanced Options ->  Replace GUIDs
 - <span id="sqldump-download"></span> Click on Export button at bottom and wait for the SQL file to be downloaded. ![](2020-02-25-18-58-03.png)
 - Go to Local and click on Database tab on your site. Then click on "Open Adminer" to open your SQL database table.![](2020-02-25-19-48-01.png)
 - If the page opens up normally then go ahead. If there is an error please [goto this link](#local-adminer-error) for further steps. Else follow the steps below.
