@@ -153,7 +153,7 @@
 
 > ***Note*** To check the beautification process you need to open up each type of supported files and try to save them. The commands will run on save and will beautify the code.
 
-> The commands will run silently. But if you want to confirm that a command ran on this file. Simply goto `Terminal` and find for `powershell` in dropdown list. You will be able to find somethings like this, check for the last command that ran it should be on your opened file. ![](2020-03-02-21-13-36.png)
+> The commands will run silently. But if you want to confirm that a command ran on this file. Simply goto `Terminal` and find for `powershell` in dropdown list. You will be able to find somethings like this, check for the last command that ran it should be on your opened file.<br/> ![](2020-03-02-21-13-36.png)
 
 ### a. Supported File Types
 
