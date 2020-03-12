@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<code>Here is a little bit of demo what you will achieve after this checklist</code>
+`Here is a little bit of demo what you will achieve after this checklist`
 
 </div>
 
@@ -10,7 +10,7 @@
 
 > ⚠️ ***Note*** This contains some processes to be done in a specific order. So follow the list given below
 
-##  1. PHP Setup 🚧
+## 1. PHP Setup 🚧
 
 <span id="php-installation-setup"></span>
 

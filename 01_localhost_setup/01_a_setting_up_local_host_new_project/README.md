@@ -6,7 +6,7 @@
 * [ ] Make sure in "Advanced options" the "Local site path" doesn't contains any white spaces.![](2020-02-25-17-16-52.png)
 * [ ] click "Preferred" and continue. ![](2020-02-25-17-19-13.png)
 * [ ] Make sure the WordPress setup contains these values exactly. ![](2020-02-25-17-20-37.png)
-  * [ ] UserName:: abu@abubakar.me
+  * [ ] UserName:: abubakar
   * [ ] Pass:: @Free1234@
   * [ ] Email:: abu@abubakar.me
 * [ ] If your site is multisite then click "Advanced Options" and set Yes to multisite as per your needs.![](2020-02-25-17-21-28.png)

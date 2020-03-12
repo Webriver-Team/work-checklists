@@ -8,8 +8,8 @@
   - [VSCode Beautification Setup](02_vscode_setup/02_b_vscode_beautification/README.md)
 - [Setting up Git repo for internal dev (Webriver's repo)](04_settingup_webriver_git_repo/README.md)
 - [Setting up git repo for post launch (glide's repo)](05_Setting_up_git_repo_for_post_launch/README.md)
-- [Setting up project from blank theme (front end)](06_setting_up_scratch_blank_project_font_end/README.md)
-- Setting up project from blank theme (back end)
+- [Setting up project from blank theme (front end)](06_setting_up_scratch_blank_project_font_end/06_a_setup_project_from_blank_frontend/README.md)
+- [Setting up project from blank theme (back end)](06_setting_up_scratch_blank_project_font_end/06_b_setup_project_from_blank_backend/README.md)
 - Frontend Theme development
   - HTML
   - CSS
